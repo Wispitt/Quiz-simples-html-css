@@ -37,7 +37,7 @@ input {
 	font-weight: lighter;
 }
 
-button {
+.enviarR {
 	border-radius: 10px;
 	font-size: 17px;
 	background-color: rgb(80, 255, 255);

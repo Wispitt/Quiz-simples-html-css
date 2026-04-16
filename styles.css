@@ -1,0 +1,272 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Inter", sans-serif;
+}
+
+body {
+	background-color: rgb(216, 216, 216);
+
+}
+
+header {
+	position: sticky;
+	top: 4px;
+	text-align: center;
+	font-size: 16px;
+	letter-spacing: 2.5px;
+	background-color: rgba(164, 164, 164, 0.879);
+	margin: 4px 3px 4px 3px;
+	border: 1.2px solid;
+	border-radius: 20px;
+}
+input {
+	margin: 4px;
+	border-radius: 10px;
+	border: 2px solid;
+	background-color: rgb(189, 189, 189);
+	width: 230px;
+	padding: 1px;
+}
+::placeholder {
+	color: rgb(102, 102, 102);
+	padding: 1px;
+	font-style: italic;
+	font-size: 13px;
+	font-weight: lighter;
+}
+
+button {
+	border-radius: 10px;
+	font-size: 17px;
+	background-color: rgb(80, 255, 255);
+	border: 2px solid;
+	width: 172px;
+	margin: 0 auto 0 auto;
+	margin-bottom: 4px;
+	cursor: pointer;
+}
+
+.h1foto {
+	font-size: 110%;
+	padding: 3px;
+	margin-top: 3px;
+	font-weight: 200;
+	letter-spacing: 0.1px;
+}
+
+img {
+	border-radius: 10px;
+	margin-top: 8px;
+	border: 2px solid;
+}
+
+.luffy {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	
+}
+
+.dentro-luffy {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.zoro {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.dentro-zoro {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.sanji {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	margin-bottom: 29px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.dentro-sanji {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+.tudo {
+	background-color: rgb(204, 204, 204);
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	border: 2px solid;
+	width: 96vw;
+	text-align: center;
+	
+}
+
+h3 {
+	text-align: center;
+	font-size: 20px;
+	padding: 5px;
+}
+
+
+.h1foto-2 {
+	font-size: 110%;
+	padding: 3px;
+	margin-top: 3px;
+	font-weight: 200;
+	letter-spacing: 0.1px;
+}
+
+.kokushibo {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	
+}
+
+.dentro-kokushibo {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.obanai {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+}
+.dentro-obanai {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.hantengu {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	margin-bottom: 29px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.dentro-hantengu {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+.tudo-2 {
+	background-color: rgb(204, 204, 204);
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	border: 2px solid;
+	width: 96vw;
+	text-align: center;
+}
+
+.h1foto-3 {
+	font-size: 110%;
+	padding: 3px;
+	margin-top: 3px;
+	font-weight: 200;
+	letter-spacing: 0.1px;
+}
+
+.sukuna {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+
+.dentro-sukuna {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.mai {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.dentro-mai {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.toji {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	margin-bottom: 29px;
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+
+.dentro-toji {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.tudo-3 {
+	background-color: rgb(204, 204, 204);
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	border: 2px solid;
+	width: 96vw;
+	text-align: center;
+}

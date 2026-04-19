@@ -113,6 +113,23 @@ img {
 
 }
 
+.barba-negra {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	margin-bottom: 29px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.dentro-barba-negra {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 .tudo {
 	background-color: rgb(204, 204, 204);
 	margin-left: auto;
@@ -191,6 +208,23 @@ h3 {
 
 }
 
+.shinobu {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+}
+.dentro-shinobu {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 .tudo-2 {
 	background-color: rgb(204, 204, 204);
 	margin-left: auto;
@@ -256,6 +290,23 @@ h3 {
 }
 
 .dentro-toji {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.inumaki {
+	background-color: rgb(201, 201, 201);
+	border-radius: 10px;
+	border: 2px solid;
+	max-width: 338px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.dentro-inumaki {
 	display: flex;
 	flex-direction: column;
 	align-items: center;

@@ -321,3 +321,8 @@ h3 {
 	width: 96vw;
 	text-align: center;
 }
+
+.resultado {
+	font-size: 12px;
+	margin: 1px;
+}
